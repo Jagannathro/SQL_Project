@@ -1,4 +1,4 @@
-✈️ #Airline Database Capstone Project
+# Airline Database Capstone Project
 URL airline_database
 ![image](https://github.com/user-attachments/assets/2b30ede9-2ee6-4808-9189-89c0ffcc61c3)
 
@@ -6,10 +6,10 @@ URL airline_database
 
 This repository showcases SQL queries and supporting scripts developed for an Airline Database Capstone project. The aim of this project is to tackle real-world issues through SQL queries related to seat allocation, flight schedules, and passenger information.
 
-##📝 Project Overview
+# Project Overview 🪟
 The airline database project was part of a capstone course. The primary objective was to craft SQL queries that address business challenges like retrieving booking details, identifying top-paying customers, and more.
 
-###Key Features
+# Key Features 🗝️
 🛠️ SQL queries addressing various business needs:
 
 📝 Extraction of booking and passenger data
@@ -24,7 +24,7 @@ The airline database project was part of a capstone course. The primary objectiv
 
 📑 Comprehensive documentation for each query is available in the docs/ folder.
 
-####💡 Queries
+# Queries ❓
 Each SQL query is designed to solve a specific problem statement from the airline database. Here are a few examples:
 
 Query 1: Display the book_date column in yyyy-mmm-dd format from the Bookings table.
@@ -36,6 +36,3 @@ Query 3: Find the seat number with the least allocation among all seats.
 And more
 ![image](https://github.com/user-attachments/assets/9d77fc82-1096-474b-94f3-d9d51f8eb4b0)
 
-
-Keywords
-#SQLProject 📊 #AirlineDatabase 🗂️ #DataAnalysis 📉 #CapstoneProject 🎓 #AviationData 🛫 #SQLQueries 🔍 #DatabaseManagement 💽 #TravelTech 🌏 #AirlineIndustry ✈️ #DataDrivenDecisions 📈 #SQLDevelopment 💻
