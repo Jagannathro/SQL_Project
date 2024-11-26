@@ -1,5 +1,5 @@
 #✈️ Airline Database Capstone Project
-URL airline_database_link
+URL airline_database
 ![image](https://github.com/user-attachments/assets/2b30ede9-2ee6-4808-9189-89c0ffcc61c3)
 
 
@@ -33,7 +33,9 @@ Query 2: Retrieve the following columns: ticket_no, boarding_no, seat_number, pa
 
 Query 3: Find the seat number with the least allocation among all seats.
 
-And more 
+And more
+![image](https://github.com/user-attachments/assets/9d77fc82-1096-474b-94f3-d9d51f8eb4b0)
+
 
 Keywords
 #SQLProject 📊 #AirlineDatabase 🗂️ #DataAnalysis 📉 #CapstoneProject 🎓 #AviationData 🛫 #SQLQueries 🔍 #DatabaseManagement 💽 #TravelTech 🌏 #AirlineIndustry ✈️ #DataDrivenDecisions 📈 #SQLDevelopment 💻
